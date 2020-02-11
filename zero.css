@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+    background-image: url(sao.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    background-color: blue;
+}
+body {
+    background-color: #faa;
+}
